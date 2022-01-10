@@ -14,7 +14,7 @@
 
 &nbsp;
 
-### CSE 477: Web Application Architecture and Development <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147623227-9dbfbed3-bd34-46d7-9a02-ca11fff50add.png" />
+### CSE 842: Natural Language Processing <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147623227-9dbfbed3-bd34-46d7-9a02-ca11fff50add.png" />
 
 ___
 **About:** 
